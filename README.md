@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**wwwewewwee/wwwewewwee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kapitonov Alecksandr
 
-Here are some ideas to get you started:
+Phone: +375298418444
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Gmail](kapitonov.a.v.asoir231.gmail.com)
+
+GitHub: https://github.com/wwwewewwee
+
+![Kapitonov Alecksandr](fff3b4e8-cb53-4989-9f83-90d4d1fe5302.jpg)
+
+## About Me
+
+I'm studying to be a software engineer in Mogilev, I'm fond of game development.
+
+## Skills
+
+*   Programming Languages: C++, C#
+*   Frameworks: .NET
+*   Version Control: Git, GitHub
+
+
+## Projects
+
+*   **Portfolio Website** - [GitHub](https://github.com/wwwewewwee/portfolio)
+*   **Task Manager App** - [GitHub](https://github.com/wwwewewwee/task-manager)
+
+## Courses & Training
+
+1.  Absent
+2.  Absent
+
+## English Proficiency
+
+Intermediate (B1)
